@@ -34,10 +34,6 @@ This repository organizes my work into folders such as:
 
 •	ESP32/ – Experiments with IoT and advanced microcontrollers.
 
-•	PCB/ – Designs and fabrication-ready layouts.
-
-•	VLSI/ – Foundational HDL and RTL design exercises.
-
 (More sections will evolve as I learn and build.)
 
 ________________________________________
