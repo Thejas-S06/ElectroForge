@@ -33,7 +33,10 @@ ________________________________________
 **🤝 Connect**
 
 💻 GitHub – https://github.com/Thejas-S06
+
 🔗 LinkedIn – https://www.linkedin.com/in/thejas-shreenivas/
+
 ✉️ Email – thejaskashyap3141@gmail.com
+
 ________________________________________
 © Thejas S – Continuous exploration, open sharing, and the spark of innovation.
