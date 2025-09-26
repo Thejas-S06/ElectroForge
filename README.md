@@ -1,4 +1,4 @@
-#**⚡ ElectroForge**
+# **⚡ ElectroForge**
 
 _“Experiment. Engineer. Evolve.” 🔧💡_
 
@@ -6,14 +6,14 @@ ElectroForge is the personal tech space of Thejas S — a hub for exploring elec
 
 This repository captures my journey of building, experimenting, and learning hands-on with hardware and code. 🚀
 ________________________________________
-###**🗂️ About This Repository**
+### **🗂️ About This Repository**
 
 ElectroForge is where ideas meet implementation.
 It brings together projects that showcase practical electronics, clean coding, and the curiosity to keep improving.
 
 Perfection isn’t the aim; progress and learning by doing drive every build.
 ________________________________________
-###**🌟 Key Focus Areas**
+### **🌟 Key Focus Areas**
 
 •	Arduino & Embedded Systems – From sensors to wireless modules, real-world problem solving.
 
@@ -26,7 +26,7 @@ ________________________________________
 •	Continuous Improvement – Documented growth, version control, and iterative learning.
 
 ________________________________________
-###**🔧 Projects Highlight**
+### **🔧 Projects Highlight**
 
 This repository organizes my work into folders such as:
 
@@ -37,7 +37,7 @@ This repository organizes my work into folders such as:
 (More sections will evolve as I learn and build.)
 
 ________________________________________
-###**🤝 Connect**
+### **🤝 Connect**
 
 💻 GitHub – https://github.com/Thejas-S06
 
