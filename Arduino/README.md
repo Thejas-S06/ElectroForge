@@ -4,12 +4,13 @@ This folder houses all Arduino-based creations under ElectroForge.
 Each project reflects practical experimentation and a focus on learning by doing.
 <hr>
 <h3>📌 Highlights</h3>
+<ul>
+<li>Well-organized collection of Arduino mini-projects</li>
 
-<ul color: white;>Well-organized collection of Arduino mini-projects</ul>
+<li>Individual README.md files explain setup and logic</li>
 
-<ul>Individual README.md files explain setup and logic</ul>
-
-<ul>Code stored in main.ino for consistency and easy uploads</ul>
+<li>Code stored in main.ino for consistency and easy uploads</li>
+</ul>
 <hr>
 <h3>📂 Purpose</h3>
 
