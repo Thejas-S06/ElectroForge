@@ -5,7 +5,7 @@ Each project reflects practical experimentation and a focus on learning by doing
 <hr>
 <h3>📌 Highlights</h3>
 
-Well-organized collection of Arduino mini-projects
+<ul>Well-organized collection of Arduino mini-projects</ul>
 
 Individual README.md files explain setup and logic
 
