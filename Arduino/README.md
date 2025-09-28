@@ -11,6 +11,6 @@ Individual README.md files explain setup and logic
 
 Code stored in main.ino for consistency and easy uploads
 <hr>
-📂 Purpose
+<h3>📂 Purpose</h3>
 
 To keep every build clearly documented and easy to revisit—supporting learning, troubleshooting, and future upgrades.
