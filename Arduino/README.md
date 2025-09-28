@@ -7,9 +7,9 @@ Each project reflects practical experimentation and a focus on learning by doing
 
 <ul>Well-organized collection of Arduino mini-projects</ul>
 
-Individual README.md files explain setup and logic
+<ul>Individual README.md files explain setup and logic</ul>
 
-Code stored in main.ino for consistency and easy uploads
+<ul>Code stored in main.ino for consistency and easy uploads</ul>
 <hr>
 <h3>📂 Purpose</h3>
 
