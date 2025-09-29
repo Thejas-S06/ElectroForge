@@ -1,6 +1,6 @@
 # **⚡ ElectroForge**
 
-_“Experiment. Engineer. Evolve.” 🔧💡_
+> _“Experiment. Engineer. Evolve.” 🔧💡_
 
 ElectroForge is the personal tech space of Thejas S — a hub for exploring electronics, embedded systems, and creative engineering.
 
