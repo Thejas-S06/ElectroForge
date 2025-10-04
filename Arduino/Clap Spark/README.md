@@ -2,7 +2,7 @@
 
 **Clap Spark** lets you control an LED simply by clapping your hands twice!
 
-A sound sensor detects the claps and toggles the LED ON or OFF — a fun way to explore digital inputs and event timing with Arduino.
+A sound sensor detects the claps and toggles the **LED ON or OFF** — a fun way to explore digital inputs and event timing with Arduino.
 ________________________________________
 ### 🔥 What It Does
 
@@ -34,9 +34,9 @@ ________________________________________
 ________________________________________
 ### 🌐 Tech & Learning Relevance
 
-•	🧩 **Event-Driven Logic**: Reacting to external sound events <br>
-•	⏱️ **Timing with millis()**: Measuring short intervals <br>
-•	💡 **IoT & Home Automation Basics:** Gesture-style light control <br>
+•	🧩 **Event-Driven Logic**:  Reacting to external sound events <br>
+•	⏱️ **Timing with millis()**:  Measuring short intervals <br>
+•	💡 **IoT & Home Automation Basics:**  Gesture-style light control <br>
 ________________________________________
 ### 📚 Learning Alignment
 
