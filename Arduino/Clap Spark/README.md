@@ -49,6 +49,11 @@ ________________________________________
 This project showed me how simple sensors can create interactive experiences. <br>
 Clap Spark is a playful step into event-driven programming and responsive hardware design.
 ________________________________________
+### 🎬 Demo
+
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/drive/folders/159kdMnc_3x7Yzt_B8PNgPEGcT6C9qvQR">Clap Spark</a>
+________________________________________
 ### 🚀 Next Iterations
 
 •	🔊 Adjust sensitivity or add a _potentiometer_ to fine-tune detection <br>
