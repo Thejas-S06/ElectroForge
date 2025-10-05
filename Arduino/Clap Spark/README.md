@@ -52,7 +52,7 @@ ________________________________________
 ### 🎬 Demo
 
 Watch the working demo here:<br>
-<a href = "https://drive.google.com/drive/folders/159kdMnc_3x7Yzt_B8PNgPEGcT6C9qvQR](https://drive.google.com/file/d/1AxCw7IsczzD_CK_drKp7xxgR0qAoTeDQ/view?usp=drivesdk">Clap Spark</a>
+<a href = "https://drive.google.com/file/d/1AxCw7IsczzD_CK_drKp7xxgR0qAoTeDQ/view?usp=drivesdk">Clap Spark</a>
 ________________________________________
 ### 🚀 Next Iterations
 
