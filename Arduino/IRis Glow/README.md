@@ -27,7 +27,7 @@ ________________________________________
 <pre>
 Device	           Arduino Pin
 📡 IR Receiver      	2
-🔴 LED 1          	  3
+🔴 LED 1          	   3
 🟡 LED 2	            4
 🟢 LED 3	            5
 </pre>
@@ -59,7 +59,7 @@ ________________________________________
 ### 🎬 Demo
 
 Watch the working demo here:<br>
-<a href = "https://drive.google.com/file/d/141xf-gQXNV9LvTlSb959_BJH-enMt4HP/view?usp=drivesdk">Clap Spark</a>
+<a href = "https://drive.google.com/file/d/141xf-gQXNV9LvTlSb959_BJH-enMt4HP/view?usp=drivesdk">IRis Glow</a>
 ________________________________________
 ### 🚀 Next Iterations
 
