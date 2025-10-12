@@ -1,7 +1,7 @@
 # 🌈📡 IRis Glow: Multi-Mode IR Remote LED Show
 
 IRis Glow transforms an everyday IR remote into a dynamic LED controller.<br>
-Press number keys to toggle individual LEDs, use the power button to light them all, or trigger special blinking patterns — **all coded from scratch by me! **💪
+Press number keys to toggle individual LEDs, use the power button to light them all, or trigger special blinking patterns — _all coded from scratch by me!_ 💪
 ________________________________________
 ### 🔥 What It Does
 
@@ -25,7 +25,7 @@ ________________________________________
 ________________________________________
 ### 🎮 Pin Assignments
 <pre>
-**Device**	           **Arduino Pin**
+Device	           Arduino Pin
 📡 IR Receiver      	2
 🔴 LED 1          	  3
 🟡 LED 2	            4
@@ -55,6 +55,11 @@ ________________________________________
 
 _I designed and coded the entire project myself_ — from capturing HEX codes to crafting the blinking animations.<br>
 It was an exciting deep dive into remote interfacing and writing clean, modular Arduino code.<br>
+________________________________________
+### 🎬 Demo
+
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/file/d/141xf-gQXNV9LvTlSb959_BJH-enMt4HP/view?usp=drivesdk">Clap Spark</a>
 ________________________________________
 ### 🚀 Next Iterations
 
