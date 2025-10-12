@@ -20,7 +20,7 @@ ________________________________________
 ________________________________________
 ### 🎮 Pin Assignments
 <pre>
-    **Component**	      **Arduino Pin**
+    Component	      Arduino Pin
 🎤 Sound Sensor   	7 (Digital IN)
 💡 LED	            6 (Digital OUT)
 </pre>
