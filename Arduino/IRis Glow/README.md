@@ -25,7 +25,7 @@ ________________________________________
 ________________________________________
 ### 🎮 Pin Assignments
 <pre>
-Device	           Arduino Pin
+   Device          Arduino Pin
 📡 IR Receiver       2     	
 🔴 LED 1             3             
 🟡 LED 2             4	           
@@ -36,7 +36,7 @@ ________________________________________
 
 •	The IRremote library decodes signals from the remote into unique **HEX codes**.<br>
 •	Each code triggers a specific action: toggle individual LEDs, power all on/off, or run blinking animations.<br>
-•	Loops like **rightBlink()**,** leftBlink()**, and **alternateBlink()** create moving-light effects with timed **delay()** sequences.<br>
+•	Loops like **rightBlink()**, **leftBlink()**, and **alternateBlink()** create moving-light effects with timed **delay()** sequences.<br>
 ________________________________________
 ### 🌐 Tech & Learning Relevance
 
