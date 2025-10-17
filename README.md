@@ -15,24 +15,24 @@ Perfection isn’t the aim; progress and learning by doing drive every build.
 ________________________________________
 ### **🌟 Key Focus Areas**
 
-•	Arduino & Embedded Systems – From sensors to wireless modules, real-world problem solving.
+•	**Arduino & Embedded Systems – **From sensors to wireless modules, real-world problem solving.
 
-•	ESP32 & IoT – Wi-Fi/Bluetooth projects and connected devices.
+•	**ESP32 & IoT – **Wi-Fi/Bluetooth projects and connected devices.
 
-•	PCB Design & Prototyping – Moving from breadboards to custom hardware.
+•	**PCB Design & Prototyping –** Moving from breadboards to custom hardware.
 
-•	VLSI Foundations – Early exploration into digital design, RTL, and HDL.
+•	**VLSI Foundations –** Early exploration into digital design, RTL, and HDL.
 
-•	Continuous Improvement – Documented growth, version control, and iterative learning.
+•	**Continuous Improvement –** Documented growth, version control, and iterative learning.
 
 ________________________________________
 ### **🔧 Projects Highlight**
 
 This repository organizes my work into folders such as:
 
-•	Arduino/ – Mini-projects with sensors, displays, and wireless control.
+•	**Arduino – **Mini-projects with sensors, displays, and wireless control.
 
-•	ESP32/ – Experiments with IoT and advanced microcontrollers.
+•	**ESP32 –** Experiments with IoT and advanced microcontrollers.
 
 (More sections will evolve as I learn and build.)
 
