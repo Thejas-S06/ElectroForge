@@ -12,7 +12,7 @@ Each project reflects practical experimentation and a focus on learning by doing
 <li>Code stored in main.ino for consistency and easy uploads</li>
 </ul>
 <hr>
-### 🎬 Demo
+<h3>🎬 Demo</h3>
 
 Watch the working demo here:<br>
 <a href = "https://drive.google.com/drive/folders/159kdMnc_3x7Yzt_B8PNgPEGcT6C9qvQR">Arduino Projects</a>
