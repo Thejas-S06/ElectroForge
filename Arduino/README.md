@@ -12,6 +12,11 @@ Each project reflects practical experimentation and a focus on learning by doing
 <li>Code stored in main.ino for consistency and easy uploads</li>
 </ul>
 <hr>
+### 🎬 Demo
+
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/drive/folders/159kdMnc_3x7Yzt_B8PNgPEGcT6C9qvQR">Arduino Projects</a>
+________________________________________
 <h3>📂 Purpose</h3>
 
 To keep every build clearly documented and easy to revisit—supporting learning, troubleshooting, and future upgrades.
