@@ -22,10 +22,10 @@ ________________________________________
 ### **🎮 Pin Assignments**
 <pre>
       Component           Arduino Pin
-📤 Servo Motor	             9
+📤 Servo Motor	              9
 📡 Ultrasonic Trigger	      10
-📡 Ultrasonic Echo	         11
-💡 LED	                     6
+📡 Ultrasonic Echo	          11
+💡 LED	                      6
 🔊 Buzzer                	  7
 </pre>
 ________________________________________
@@ -39,6 +39,7 @@ ________________________________________
 4.	After 1 second, the servo returns to 0° and the LED & buzzer turn OFF.<br>
 5.	The loop repeats every 200 ms for continuous monitoring.<br>
 ________________________________________
+
 ### **🌐 Tech & Learning Relevance**
 
 •	🧩 Distance Measurement with HC-SR04 and **pulseIn()**<br>
