@@ -38,8 +38,7 @@ ________________________________________
 </pre>
 4.	After 1 second, the servo returns to 0° and the LED & buzzer turn OFF.<br>
 5.	The loop repeats every 200 ms for continuous monitoring.<br>
-________________________________________
-
+<hr>
 ### **🌐 Tech & Learning Relevance**
 
 •	🧩 Distance Measurement with HC-SR04 and **pulseIn()**<br>
@@ -57,6 +56,11 @@ ________________________________________
 
 Building Echo Gate felt like creating a scaled-down smart toll system.<br>
 It combined sensors, motion control, and multi-output feedback — a fun step toward real-world embedded automation.<br>
+________________________________________
+### 🎬 Demo
+
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/file/d/1FRlJJuM-5CkFF6ll7ajYf703oBheF7tN/view?usp=drivesdk">Echo Gate</a>
 ________________________________________
 ### **🚀 Next Iterations**
 
