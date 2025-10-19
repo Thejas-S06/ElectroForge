@@ -23,10 +23,10 @@ ________________________________________
 <pre>
       Component           Arduino Pin
 📤 Servo Motor	             9
-📡 Ultrasonic Trigger	       10
+📡 Ultrasonic Trigger	      10
 📡 Ultrasonic Echo	         11
 💡 LED	                     6
-🔊 Buzzer                	   7
+🔊 Buzzer                	  7
 </pre>
 ________________________________________
 ### **🧠 How It Works**
