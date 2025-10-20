@@ -26,10 +26,10 @@ ________________________________________
 ### 🎮 Pin Assignments
 <pre>
    Components          Arduino Pin
-📡 IR Receiver       2     	
-🔴 LED 1             3             
-🟡 LED 2             4	           
-🟢 LED 3             5	           
+📡 IR Receiver           2     	
+🔴 LED 1                 3             
+🟡 LED 2                 4	           
+🟢 LED 3                 5	           
 </pre>
 ________________________________________
 ### 🧠 How It Works
