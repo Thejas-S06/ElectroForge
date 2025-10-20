@@ -25,7 +25,7 @@ ________________________________________
 ________________________________________
 ### 🎮 Pin Assignments
 <pre>
-   Device          Arduino Pin
+   Components          Arduino Pin
 📡 IR Receiver       2     	
 🔴 LED 1             3             
 🟡 LED 2             4	           
@@ -40,10 +40,10 @@ ________________________________________
 ________________________________________
 ### 🌐 Tech & Learning Relevance
 
-•	**🎛️ Remote Control Integration:** Reading and interpreting IR signals<br>
-•	**🧩 State Machines & Pattern Logic:** Mapping codes to multiple behaviors<br>
-•	**💡 Custom C++ Functions:** Modular, reusable code structure<br>
-•	**🔍 Serial Debugging:** Printing received HEX codes for easy expansion<br>
+•	**🎛️ Remote Control Integration:**  Reading and interpreting IR signals<br>
+•	**🧩 State Machines & Pattern Logic:**  Mapping codes to multiple behaviors<br>
+•	**💡 Custom C++ Functions:**  Modular, reusable code structure<br>
+•	**🔍 Serial Debugging:**  Printing received HEX codes for easy expansion<br>
 ________________________________________
 ### 📚 Learning Alignment
 
