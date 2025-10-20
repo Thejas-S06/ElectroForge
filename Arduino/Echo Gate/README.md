@@ -21,7 +21,7 @@ ________________________________________
 ________________________________________
 ### **🎮 Pin Assignments**
 <pre>
-      Component           Arduino Pin
+      Components          Arduino Pin
 📤 Servo Motor	              9
 📡 Ultrasonic Trigger	      10
 📡 Ultrasonic Echo	          11
