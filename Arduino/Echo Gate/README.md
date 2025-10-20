@@ -39,7 +39,7 @@ ________________________________________
 4.	After 1 second, the servo returns to 0° and the LED & buzzer turn OFF.<br>
 5.	The loop repeats every 200 ms for continuous monitoring.<br>
 <hr>
-### **🌐 Tech & Learning Relevance**
+<h3><bold>🌐 Tech & Learning Relevance</bold></h3>
 
 •	🧩 Distance Measurement with HC-SR04 and **pulseIn()**<br>
 •	⚙️ Servo Control via the Servo library<br>
