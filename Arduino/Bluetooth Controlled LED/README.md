@@ -1,4 +1,4 @@
-# **📲💡 Bluetooth Controlled LED: MIT App + Arduino**
+# **📲💡 Bluetooth Controlled LED: (MIT App + Arduino)**
 
 Bluetooth Controlled LED lets you switch an LED ON/OFF wirelessly using a smartphone app built in _MIT App Inventor_.<br>
 This project was my first Bluetooth experiment and also where I learned to create a custom Android app with code blocks for control.<br>
@@ -23,7 +23,7 @@ ________________________________________
   Component	     Arduino Pin
 📡 HC-05 TX   → 	RX (0)
 📡 HC-05 RX   → 	TX (1) (use voltage divider if needed)
-💡 LED	          13 (Digital OUT)
+💡 LED	            13 (Digital OUT)
  GND/VCC         	Common 5 V & GND
 </pre>
 ________________________________________
