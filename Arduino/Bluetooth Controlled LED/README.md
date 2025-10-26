@@ -50,6 +50,11 @@ ________________________________________
 This was my first project with Bluetooth, and it introduced me to wireless control and app design.<br>
 Creating the MIT App Inventor interface and linking it with Arduino code was a big confidence booster!<br>
 ________________________________________
+### 🎬 Demo
+
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/file/d/1-FIFqDZIydpBtGY9LPfz_CqnWWE_bbhC/view?usp=drivesdk">Bluetooth Controlled LED</a>
+________________________________________
 ### **🚀 Next Iterations**
 
 •	💡 Control multiple LEDs or RGB strips<br>
