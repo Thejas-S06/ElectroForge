@@ -13,7 +13,7 @@ const int LED3_PIN = 5;       // LED3 on pin 5
 const int LED_COUNT = 3; 
 int LEDS[LED_COUNT] = {LED1_PIN, LED2_PIN, LED3_PIN};
 
-// HEX Codes from your remote
+// HEX Codes from remote
 const uint32_t CODE_LED1 = 0xF50A7F80;
 const uint32_t CODE_LED2 = 0xE41B7F80;
 const uint32_t CODE_LED3 = 0xE01F7F80;
