@@ -21,10 +21,10 @@ ________________________________________
 ### **🎮 Pin Connections**
 <pre>
     Component	      Arduino Pin
-🕹️ Push Button	      2 (uses INPUT_PULLUP)
+🕹️ Push Button	        2 (uses INPUT_PULLUP)
 🔊 Buzzer           	4
-🖥️ OLED (SDA)        A4
-🖥️ OLED (SCL)        A5
+🖥️ OLED (SDA)          A4
+🖥️ OLED (SCL)          A5
 5 V & GND	Power & Ground for all
 </pre>
 ________________________________________
