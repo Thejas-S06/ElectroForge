@@ -56,7 +56,8 @@ I copied this project from YouTube just for fun, _not as a formal build_ —<br>
 but it unexpectedly taught me about timing loops, basic physics, and game design on microcontrollers.<br>
 A pure “_learn while you play_” experience!
 ________________________________________
-🚀 Next Iterations
-•	🏆 Add high-score memory using EEPROM
-•	🌈 Introduce different themes or characters
-•	📶 Port to ESP32 for wireless score sharing
+### 🎬 Demo
+
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/file/d/1-FIFqDZIydpBtGY9LPfz_CqnWWE_bbhC/view?usp=drivesdk">Flappy Bird</a>
+________________________________________
