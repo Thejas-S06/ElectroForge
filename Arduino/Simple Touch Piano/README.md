@@ -52,8 +52,8 @@ Building the Simple Touch Piano was rewarding because it brought a fun, interact
 
 ### **🎬 Demo**
 
-Watch the working demo here:
-Simple Touch Piano
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/file/d/1q1ZCbFTofU4dBxx7U0Cj-MKzcnaAyYoc/view?usp=drivesdk">Simple Touch Piano</a>
 
 ### **🚀 Next Iterations**
 
