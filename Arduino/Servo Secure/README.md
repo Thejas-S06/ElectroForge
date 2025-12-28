@@ -2,14 +2,14 @@
 
 Servo Secure is an embedded security prototype that uses Bluetooth wireless communication to control a lock or box mechanism driven by a servo motor. Access is granted only when a specific, pre-defined password command is received from a custom mobile application, demonstrating fundamental principles of remote command and control.
 <hr>
-### **🔥What It Does**
+<h3>🔥 What It Does</h3>
 
 •	📱 **Remote Command:** Controls the lock mechanism wirelessly via a custom application on a mobile device using the HC-05 Bluetooth module.<br>
 •	🔑**Password Protection:** The "_open_" or "_unlock_" action is conditional—it only executes when the microcontroller receives the correct, hardcoded password ("Password" in the code).<br>
 •	⚙️**Mechanical Action:** A servo motor performs the physical actions of locking (_CLOSE_ANGLE_) and unlocking (_OPEN_ANGLE_).<br>
 •	💡**Active Feedback:** Uses red and green LEDs, along with a buzzer, to provide immediate feedback on the system's status (locked, unlocked, or failed attempt).<br>
 <hr>
-### **🧰Components**
+<h3>🧰Components</h3>
 
 •	**Microcontroller:** Arduino Uno / Nano<br>
 •	**Communication:** HC-05 Bluetooth Module<br>
@@ -21,18 +21,18 @@ o	Buzzer (for audio feedback)<br>
 •	**Software:** Custom MIT App Inventor application (or similar Bluetooth terminal app)<br>
 •	**Other:** Breadboard & Jumper Wires<br>
 <hr>
-### **🎮Pin Assignments**
+<h3>🎮Pin Assignments</h3>
 <pre>
  Components	    Arduino Pin	     Function
 HC-05 RX Pin	     10	        Connected to HC-05 TX
 HC-05 TX Pin	     11	        Connected to HC-05 RX
-Servo Motor	        9	        PWM Output for Servo Control
-Green LED	          3     	  Digital Output
+Servo Motor	       9	        PWM Output for Servo Control
+Green LED	           3     	  Digital Output
 Red LED	            4	        Digital Output
 Buzzer	            5	        Digital Output
 </pre>
 <hr>
-### **🧠How It Works**
+<h3>🧠How It Works</h3>
 
 1.	**Wireless Setup:** The Arduino communicates with the HC-05 module using the SoftwareSerial library, dedicating digital pins 10 (RX) and 11 (TX) for communication.<br>
 2.	**Listening:** The system continuously checks if data is available (bluetooth.available()) from the Bluetooth module via the mobile app.<br>
@@ -42,29 +42,29 @@ Buzzer	            5	        Digital Output
   o	Any other command triggers a "_fail_" response: the Red LED lights up, and the buzzer sounds a long alert tone (buzz(500)).<br>
 4.	**Action:** The _Servo.write()_ function is used to precisely position the servo motor to lock or unlock the physical mechanism.<br>
 <hr>
-### **🌐Tech & Learning Relevance**
+<h3>🌐Tech & Learning Relevance</h3>
 
 •	🧩 **Wireless Interfacing:** Implementing SoftwareSerial to communicate with external wireless modules (HC-05) when the hardware serial port is unavailable.<br>
 •	💻 **String Handling:** Utilizing readStringUntil('\n') and trim() to reliably capture and process full string commands over serial/Bluetooth.<br>
 •	⚙️ **Actuator Control:** Applying the Servo library to execute precise angular motion based on remote logic.<br>
 •	🛡️ **Basic Security:** Implementing a foundational password-check mechanism for access control.<br>
 <hr>
-### **📚Learning Alignment**
+<h3>📚Learning Alignment</h3>
 
 •	📘 **Serial Communication:** Understanding data flow between the microcontroller and a wireless module.<br>
 •	⚡ **Conditional Logic:** Using if-else if-else structures for decision-making based on external data.<br>
 •	🕒 **Feedback Systems:** Coordinating visual (LEDs) and audio (buzzer) feedback with mechanical action (servo).<br>
 <hr>
-### **💡Personal Note**
+<h3>💡Personal Note</h3>
 
 Servo Secure was a crucial step in moving from wired sensors to wireless communication. The process of setting up the custom mobile app (via MIT App Inventor) to reliably send strings that the Arduino could interpret and act upon felt like building a true command-and-control system.
 <hr>
-### **🎬Demo**
+<h3>🎬Demo</h3>
 
 Watch the working demo here:<br>
 <a href = "https://drive.google.com/file/d/1MrsOpce0rqrUBFKPdUz7ukmFy60nKqcx/view?usp=drivesdk">Servo Secure</a>
 <hr>
-### **🚀Next Iterations**
+<h3>🚀Next Iterations</h3>
 
 •	**Advanced Security:** Replace the simple hardcoded string with a _HMAC or SHA-256_ hash comparison for more secure authentication (similar to your Swipe Link security foundation).<br>
 •	**IoT Upgrade:** Replace the HC-05 with the ESP32 to enable Wi-Fi-based control (from anywhere in the world) instead of limited-range Bluetooth.<br>
