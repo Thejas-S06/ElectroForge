@@ -23,13 +23,13 @@ o	Buzzer (for audio feedback)<br>
 <hr>
 <h3>🎮Pin Assignments</h3>
 <pre>
- Components	    Arduino Pin	     Function
-HC-05 RX Pin	     10	        Connected to HC-05 TX
-HC-05 TX Pin	     11	        Connected to HC-05 RX
-Servo Motor	         9	        PWM Output for Servo Control
-Green LED	         3     	  Digital Output
+ Components	    Arduino Pin	      Function
+HC-05 RX Pin	      10	        Connected to HC-05 TX
+HC-05 TX Pin	      11	        Connected to HC-05 RX
+Servo Motor	        9	        PWM Output for Servo Control
+Green LED	          3      	  Digital Output
 Red LED	            4	        Digital Output
-Buzzer	            5	        Digital Output
+Buzzer	             5	        Digital Output
 </pre>
 <hr>
 <h3>🧠How It Works</h3>
