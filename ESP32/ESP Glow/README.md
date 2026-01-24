@@ -18,10 +18,10 @@ ESP Glow is a fundamental Internet of Things (IoT) project that utilizes the bui
 <hr>
 <h3><bold>🎮 Pin Assignments</bold></h3>
 <pre>
-Components	      ESP32 Pin Assignment	  Function
-Control LED	      GPIO 32	                Digital Output
-Wi-Fi	Internal	  Built-in Wi-Fi          Transceiver
-Web Server	      Port 80	                Standard HTTP Port
+Components	      ESP32 Pin Assignment	    Function
+Control LED	       GPIO 32	                Digital Output
+Wi-Fi Internal	   Built-in Wi-Fi           Transceiver
+Web Server	       Port 80	                Standard HTTP Port
 </pre>
 <hr>
 <h3><bold>🧠 How It Works</bold></h3>
@@ -53,7 +53,7 @@ ESP Glow was the first project to unlock the massive potential of the ESP32's Wi
 <hr>
 <h3><bold>🎬 Demo</bold></h3>
 Watch the working demo here:<br>
-ESP Glow
+<a href = "https://drive.google.com/file/d/1Ll1d8650-iZFPcOrIyUDi-RnBV4Hs9aW/view?usp=drivesdk">Clap Spark</a>
 <hr>
 <h3><bold>🚀 Next Iterations</bold></h3>
 
