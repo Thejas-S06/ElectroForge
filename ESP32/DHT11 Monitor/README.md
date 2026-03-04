@@ -22,8 +22,8 @@ DHT11 Monitor is an IoT monitoring system that uses the ESP32 to read live envir
 
 ### **🎮 Pin Assignments**
 <pre>
-  Components      	ESP32 Pin Assignment      	 Function
-DHT11 Data Pin	        GPIO 15                 Digital Input
+  Components      	ESP32 Pin Assignment      	  Function
+DHT11 Data Pin	        GPIO 15                  Digital Input
 Wi-Fi AP            SSID	"Thejas's ESP32"	    Local Network Name
 Web Server        	Port 80	Standard HTTP Port
 </pre>
