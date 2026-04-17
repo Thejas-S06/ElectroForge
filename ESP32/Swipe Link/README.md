@@ -29,7 +29,7 @@ PN532                SS (CS)	GPIO 5	       SPI (Chip Select)
 I2C LCD              SDA	GPIO 21 (Default)	 I2C
 I2C LCD              SCL	GPIO 22 (Default)	 I2C
 Access Granted LED	 GPIO 4 (GREEN)	         Digital Out
-Access Denied LED	   GPIO 15 (RED)	         Digital Out
+Access Denied LED	   GPIO 15 (RED)	       Digital Out
 Buzzer	             GPIO 2	                 Digital Out
 </pre>
 
@@ -64,8 +64,8 @@ Swipe Link was the pinnacle of integrating advanced peripheral hardware with str
 
 ### **🎬 Demo**
 
-Watch the working demo here:
-Swipe Link
+Watch the working demo here:<br>
+<a href = "https://drive.google.com/file/d/1iRtsO3p0wx2W6drKAmYhfK3037M04qNL/view?usp=drivesdk">Swipe Link</a>
 
 ### **🚀 Next Iterations**
 •	**Enhanced Security:** Implement AES encryption on the tag data or use HMAC to verify tag integrity against a server-side secret key.<br>
